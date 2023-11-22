@@ -1,0 +1,4 @@
+[-] Think of the project structure and Responsiveness
+[-] Define the base stylings
+[-] Create re-usable classes and utilities
+[-] Create re-usable CSS Custom Properties
